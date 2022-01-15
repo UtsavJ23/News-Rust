@@ -1,13 +1,14 @@
 # News-Rust
 **Shows news fetched through an API**
 
+## About
 This is a beginners project made by **UTSAV JHA** and **VINAYAK JOSHI**.
 
 *Utsav - utsav23jha@gmail.com*
 
 *Vinayak - vinayakjoshi1930@gmail.com*
 
-
+## Introduction
 Aim of this project was to improve our grip on *Rust*.
 
 In this project we have created a simple program which would use an API
@@ -17,6 +18,6 @@ below it to get to the full news article.
 To add a twist we changed the colour of the news headline to yellow and the hyperlink to cyan so it is 
 better looking for the viewers. 
 
-Below is the output of the project!
+## Output
 
 <img src="/Output.png" alt="Output"/>
